@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lums-webpack/static/css/main.8ea283e4.css",
+    "main.js": "/lums-webpack/static/js/main.742cc8a5.js",
+    "static/js/787.3583f9ef.chunk.js": "/lums-webpack/static/js/787.3583f9ef.chunk.js",
+    "index.html": "/lums-webpack/index.html",
+    "main.8ea283e4.css.map": "/lums-webpack/static/css/main.8ea283e4.css.map",
+    "main.742cc8a5.js.map": "/lums-webpack/static/js/main.742cc8a5.js.map",
+    "787.3583f9ef.chunk.js.map": "/lums-webpack/static/js/787.3583f9ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ea283e4.css",
+    "static/js/main.742cc8a5.js"
+  ]
+}
